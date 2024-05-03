@@ -1,0 +1,61 @@
+:root{
+    --heading-font: 'Playfair Display' , serif;
+    --text-font: 'Poppins' , sans-serif;
+}
+body{
+  max-width: 1200px;
+  text-align: center;
+  margin: 0 auto;
+}
+.cake{
+    background-image: url(pexels-yousif-idrees-867185224-19846422.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-bottom: 30px;
+    margin-top: 30px;
+    color: white;
+}
+.welcome{
+    background-image: url(pexels-davideibiza-1739748.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: auto;
+}
+.title{
+     font-size: 16px;
+     font-family: var(--heading-font) ;
+}
+p{
+    font-size: 20px;
+    text-align: center;
+    color: rgb(13, 34, 34);
+}
+.cupcake{
+    background-image: url(pexels-igor-ovsyannykov-56123-205961.jpg) ;
+   
+}
+.rota{
+    text-align: center;
+    font-family: var(--heading-font);
+    font-weight: bold;
+    background-size: cover;
+    color: transparent;
+    
+    font-size: 340px;
+    background-image: url(pexels-pixabay-459335.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: text ;
+}
+
+.btn-primary{
+    
+    transform: rotateY('180deg');
+}
+h2{
+    text-align: center;
+    font-family: var(--heading-font);
+    color: darkgreen;
+    font-size: 42px;
+}
