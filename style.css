@@ -48,6 +48,17 @@ p{
     background-position: center;
     background-clip: text ;
 }
+
+.cupcakes-para{
+    color: rgba(207, 27, 126, 0.952);
+    font-weight: 24;
+}
+.cupcakes-heading{
+    margin-top: 70px;
+    font-size: 44px;
+    color: rgba(163, 33, 105, 0.952);
+    font-weight: bold;
+}
 .cake-collection{
     margin-top: 70px;
     font-size: 24px;
